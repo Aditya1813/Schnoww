@@ -45,6 +45,21 @@ There is a discover feature implemented on the app which allows the user to disc
 Lastly the Schwow button is designed to show all the locations that have been input inside the app
 ```
 
+
+## Working
+
+Romance.
+Maps.
+Splashscreen.
+
+--Buggy--
+
+Other categories
+Schwow
+discover
+
+
+
 ## Screenshots 
 
 
