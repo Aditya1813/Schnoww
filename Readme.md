@@ -1,5 +1,5 @@
 # Schnoww
-This project is for made for mobile computing 2430.
+This project is made for mobile computing 2430.
 
 ## Intro
 ```
