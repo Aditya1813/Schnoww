@@ -54,14 +54,14 @@ Splashscreen.
 
 --Buggy--
 
-Other categories
+Other categories(i reckon it to be maps sdk limiting me because all the implementations are exactly the same if you parse the code)
 Schwow
 discover
 
 
 
 ## Screenshots 
-
+![Alt text](/?raw=true "Optional Title")
 
 ## License
 i hereby delcare this app available to all. Period.
