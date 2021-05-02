@@ -61,7 +61,7 @@ discover
 
 
 ## Screenshots 
-![Alt text](/?raw=true "Optional Title")
+![Alt text]("https://github.com/Aditya1813/Schnoww/blob/master/Screenshot%202021-04-27%20225831.png" "Optional Title")
 
 ## License
 i hereby delcare this app available to all. Period.
