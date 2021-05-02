@@ -38,6 +38,15 @@ The app is divided into multiple sub categories and when the user opens the app 
 
 When the user clicks the categories, they get presented with the geo locations on the map where they can click the desired choice and have the directions in their preffered choice of maps application external output.
 
+--Feature List--
+ROMANCE
+ADRENALINE
+SPORT
+SHOPPING
+GRACE
+DISCOVER
+SCHWOW!
+
 The app uses Google Maps SDK and bunch of other Maps API to implement the functionality. 
 
 There is a discover feature implemented on the app which allows the user to discover the instagram page of thunderbays social gathering group.
